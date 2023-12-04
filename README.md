@@ -1,4 +1,4 @@
 # Responsi
 Adzkia Rahmatillah - 21/479147/SV/19445
 
-![bgky](https://github.com/adzrhm/Responsi/assets/142763860/5f917c91-3b88-4909-8712-9df08c1e45df)
+B3 Wise merupakan sebuah aplikasi yang dibuat untuk mengetahui sebaran dropbox sampah b3 di Kota Yogyakarta. Dropbox merupakan tempat penampungan khusus untuk B3 yang kemudian akan dikelola oleh Dinas Lingkungan Hidup. B3 Wise membantu dalam optimalisasi penyediaaan tempat penampungan sampah B3 yang ada di Kota Yogyakarta
